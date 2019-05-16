@@ -7,7 +7,7 @@ angular.module('followingList', ['ngRoute'])
       var self = this;
 
       const requestOptions = {
-          headers: { 'X-session': $rootScope.x_session } //600611030 600611034 give advice
+          headers: { 'X-session': $rootScope.x_session } //600611030 600611034 give advicee
 
       };
 
